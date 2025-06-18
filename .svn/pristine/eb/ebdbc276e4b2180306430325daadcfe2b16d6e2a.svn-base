@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdcad940d4d7f894bac05f9e13365623
+timeCreated: 1455572415
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Animations/Cards/CardResultsWin.anim
+  uploadId: 614726

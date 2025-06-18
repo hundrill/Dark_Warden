@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb3d05849f530854cb718f72ba1d8640
+timeCreated: 1456177014
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template1Classic/Prefabs/InfoButton.prefab
+  uploadId: 614726

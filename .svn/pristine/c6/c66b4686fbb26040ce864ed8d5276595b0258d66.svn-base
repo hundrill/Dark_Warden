@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d15648ed9435d7646974bd26e7f4f664
+timeCreated: 1454790355
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Shaders/Sprites-Default-Cull.shader
+  uploadId: 614726

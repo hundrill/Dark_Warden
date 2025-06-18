@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd1aa3d3af05fe14faf49bec02689a57
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Materials/ToonExplosion/ExpCircle.mat
+  uploadId: 714909

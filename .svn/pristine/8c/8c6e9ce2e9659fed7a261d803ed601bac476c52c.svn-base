@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ecf8ed9f49ddda40a40f05b95d1f340
+timeCreated: 1456177001
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template1Classic/Prefabs/CreditAddButton.prefab
+  uploadId: 614726

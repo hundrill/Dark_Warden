@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4744032740927619893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9088439189653287812}
+  - component: {fileID: 7004114102985272088}
+  m_Layer: 0
+  m_Name: MonsterManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9088439189653287812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4744032740927619893}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7004114102985272088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4744032740927619893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dd3b871a123814d925fc9c762db3c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monster:
+  - {fileID: 884716284629824246, guid: d17bd6f8c4c9fe24c83d10519c77c1e2, type: 3}
+  - {fileID: 8869723010487304290, guid: 32353d5ff1adb3d40875ce73422d66f0, type: 3}
+  - {fileID: 2419334450744515993, guid: 01bde25a16f124941a9ddc02b412fd3f, type: 3}
+  - {fileID: 2865395807044842153, guid: 547bd78cfaa757f419fc121bcdf02106, type: 3}
+  - {fileID: 8526807817138799859, guid: 47f74f67fee650642a4e9342b7b446fe, type: 3}
+  - {fileID: 3484466553175380979, guid: efe11ac9b6daa2b49b526ac56e7a8f49, type: 3}
+  - {fileID: 2125457455304977217, guid: d44e0ed3172bbea4baa95c542dd1e310, type: 3}
+  - {fileID: 3531853685803083716, guid: 2d6a362637dd73f4895d5caec6609b53, type: 3}
+  - {fileID: 3732076075312773321, guid: 12b8b98573a425c4f9138ca531205dde, type: 3}
+  - {fileID: 9134339073582341806, guid: 5ed57860f5af7a9498df3c53d9dad8ce, type: 3}
+  - {fileID: 8594077653938321318, guid: c804eb03c2ef1554499bcc82e66bde39, type: 3}
+  - {fileID: 685886080462965162, guid: ba29029e392707c42bfe4e809032bcf2, type: 3}
+  - {fileID: 4907430946370287667, guid: 2a2f015cf0c36f04caf6f0a4cb953325, type: 3}
+  - {fileID: 6615686822392890105, guid: 6e58d272d0242034ebbeba8239ab709a, type: 3}
+  hpcanvas: {fileID: 2868502161698989843, guid: 693fd9291ec7c174a9b2cd4c7d7b8151,
+    type: 3}
+  hpcanvas_hero: {fileID: 2868502161698989843, guid: 3955f9608203cb5479583d9dca64ac10,
+    type: 3}
+  is_Group: 0
+  now_Monster: {fileID: 0}
+  list_Monster: []

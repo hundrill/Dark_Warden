@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b1c916b076573054792d93b2af0bc97c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248484
+  packageName: Map Pings | Indicators | VFXs
+  packageVersion: 1.0
+  assetPath: Assets/Rising Sun Studio/Map_Pings_VFX-URP/Shaders/SH_Unlit_hdr.shadergraph
+  uploadId: 567423

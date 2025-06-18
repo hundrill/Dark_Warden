@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 995a546d320f12e4bb43b395b94f8bae
+timeCreated: 1454830211
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Animations/Cards/FlipCard1.anim
+  uploadId: 614726

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Jeongnimsaji';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Regular.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Jeongnimsaji';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Jeongnimsaji/Jeongnimsaji-Bold.ttf') format('truetype');
+}

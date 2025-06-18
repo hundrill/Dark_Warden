@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f92b003a5c307364cad71a7af3a2be6f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248484
+  packageName: Map Pings | Indicators | VFXs
+  packageVersion: 1.0
+  assetPath: Assets/Rising Sun Studio/Map_Pings_VFX-URP/Prefabs/VFX_Minimap Target.prefab
+  uploadId: 567423

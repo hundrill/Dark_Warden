@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69cdf3c9bdd30344b9161fe5e56c11c6
+timeCreated: 1455918077
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Animations/WinMessages/WinMessage.controller
+  uploadId: 614726

@@ -1,0 +1,48 @@
+﻿id,nameText,descText,basevalue,increase,decrease,maxvalue,timing_draw,timing_round_start,timing_hand_play,timing_scoring,timing_after_scoring,timing_fold,timing_round_clear,timing_tarot_card_use,timing_planet_card_use,price,sprite
+1,조커 A,다이아몬드로 득점 시마다 배수가 <color=red>+2</color> 된다.,0,0,0,,,,,add_mults_2_playingcard_by_suite_diamond_playingcard,,,,,,2,0
+2,조커 B,내 플레이 카드에 페어가 포함되어있으면 배수 <color=red>+2</color> 한다.,0,0,0,,,,,,add_mults_2_total_include_rank_onepair/twopair/triple/fourcard/fivecard/fullhouse/flushfive_playcard,,,,,3,1
+3,조커 C,원페어 시 <color=red>x[basevalue]</color>배. 원페어가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.2,0,30,,,multiple_mults_[basevalue]_total_include_rank_onepair_playcard,,increase_mults_[increase]_self_include_rank_onepair_playcard,,,,,5,2
+4,조커 D,투페어 시 <color=red>x[basevalue]</color>배. 투페어가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.3,0,30,,,multiple_mults_[basevalue]_total_include_rank_twopair_playcard,,increase_mults_[increase]_self_include_rank_twopair_playcard,,,,,4,3
+5,조커 E,트리플 시 <color=red>x[basevalue]</color>배. 트리플이 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.4,0,30,,,multiple_mults_[basevalue]_total_include_rank_triple_playcard,,increase_mults_[increase]_self_include_rank_triple_playcard,,,,,4,4
+6,조커 F,포카드 시 <color=red>x[basevalue]</color>배. 포카드가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.7,0,30,,,multiple_mults_[basevalue]_total_include_rank_fourcard_playcard,,increase_mults_[increase]_self_include_rank_fourcard_playcard,,,,,4,5
+7,조커 G,풀하우스 시 <color=red>x[basevalue]</color>배. 풀하우스가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.5,0,30,,,multiple_mults_[basevalue]_total_include_rank_fullhouse_playcard,,increase_mults_[increase]_self_include_rank_fullhouse_playcard,,,,,4,6
+8,조커 H,하이카드 시 <color=red>x[basevalue]</color>배. 하이카드가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.1,0,30,,,multiple_mults_[basevalue]_total_include_rank_highcard_playcard,,increase_mults_[increase]_self_include_rank_highcard_playcard,,,,,4,7
+9,조커 I,스트레이트 시 <color=red>x[basevalue]</color>배. 스트레이트가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.4,0,30,,,multiple_mults_[basevalue]_total_include_rank_straight_playcard,,increase_mults_[increase]_self_include_rank_straight_playcard,,,,,4,8
+10,조커 J,플러시 시 <color=red>x[basevalue]</color>배. 플러시가 플레이 될 때마다 <color=green>x[increase]</color>배가 성장한다. (최대 30),1,0.4,0,30,,,multiple_mults_[basevalue]_total_include_rank_flush_playcard,,increase_mults_[increase]_self_include_rank_flush_playcard,,,,,4,9
+11,조커 K,"핸드플레이 시, 내 핸드에 페어가 남아있으면 배수 <color=red>3배</color>한다.",0,0,0,,,,,,multiple_mults_3_total_include_rank_onepair/twopair/triple/fourcard/fivecard/fullhouse/flushfive_handcard,,,,,4,10
+12,조커 M,"핸드플레이 시, 내 핸드에 트리플이 남아있으면 배수 <color=red>6배</color>한다.",0,0,0,,,,,,multiple_mults_6_total_include_rank_triple/fourcard/fullhouse_handcard,,,,,4,12
+13,조커 N,"핸드플레이 시, 내 핸드에 포 카드가 남아있으면 배수 <color=red>25배</color>한다.",0,0,0,,,,,,multiple_mults_25_total_include_rank_fourcard_handcard,,,,,4,13
+14,조커 O,내 패에 스트레이트가 포함되어있으면 배수 <color=red>+4</color> 한다.,0,0,0,,,,add_mults_4_total_include_rank_straight_playcard,,,,,,,4,14
+15,조커 P,무조건 배수 <color=red>+1</color> 한다.,0,0,0,,,,add_mults_1_total_nocondition_0_0_0,,,,,,,4,15
+16,조커 Q,내 패에 트리플이 포함되어있으면 배수 <color=red>+3</color> 한다.,0,0,0,,,,add_mults_3_total_include_rank_triple/fullhouse/fourcard_playcard,,,,,,,4,16
+17,조커 R,내 패에 포카드가 포함되어있으면 배수 <color=red>+5</color> 한다.,0,0,0,,,,add_mults_5_total_include_rank_fourcard_playcard,,,,,,,4,17
+18,조커 S,내 패에 풀하우스가 포함되어있으면 배수 <color=red>+4</color> 한다.,0,0,0,,,,add_mults_4_total_include_rank_fullhouse_playcard,,,,,,,4,18
+19,조커 T,내 패에 플러시가 포함되어있으면 배수 <color=red>+4</color> 한다.,0,0,0,,,,add_mults_4_total_include_rank_flush_playcard,,,,,,,4,19
+20,조커 U,"하트로 득점 시마다, 해당 카드의 득점 시 칩스가 <color=blue>+10</color> 성장한다.",0,0,0,,,,,add_chips_10_playingcard_by_suite_heart_playingcard,,,,,,2,20
+21,조커 V,"스페이드로 득점 시마다, 해당 카드의 득점 시 칩스가 <color=blue>+10</color> 성장한다.",0,0,0,,,,,add_chips_10_playingcard_by_suite_spade_playingcard,,,,,,2,21
+22,조커 W,"클럽으로 득점 시마다, 해당 카드의 득점 시 칩스가 <color=blue>+10</color> 성장한다.",0,0,0,,,,,add_chips_10_playingcard_by_suite_club_playingcard,,,,,,2,22
+23,조커 X,"핸드플레이 시, 내 핸드에 하트가 남아있는 카드 한 장당 배수가 <color=red>+2</color> 된다.",0,0,0,,,,,,add_mults_2_total_by_suite_heart_handcard,,,,,2,23
+24,조커 Y,"핸드플레이 시, 내 핸드에 스페이드가 남아있는 카드 한 장당 배수가 <color=red>+2</color> 된다.",0,0,0,,,,,,add_mults_2_total_by_suite_spade_handcard,,,,,2,24
+25,조커 Z,"핸드플레이 시, 내 핸드에 클럽이 남아있는 카드 한 장당 배수가 <color=red>+2</color> 된다.",0,0,0,,,,,,add_mults_2_total_by_suite_club_handcard,,,,,2,25
+26,조커 AA,"핸드플레이 시, 내 핸드에 다이아몬드가 남아있는 카드 한 장당 배수가 <color=red>+2</color> 된다.",0,0,0,,,,,,add_mults_2_total_by_suite_diamond_handcard,,,,,2,26
+27,조커 AB,"득점에 사용된 에이스 한 장당, 칩스 <color=red>+20</color> 배수 <color=blue>+4</color> 된다.",0,0,0,,,,,"add_chips_20_total_by_number_1_playingcard,add_mults_4_total_by_number_1_playingcard",,,,,,4,27
+28,조커 AC,배수 <color=red>+[basevalue]</color>. 라운드 종료 시 마다 배수가 <color=blue>-[decrease]</color> 된다.,20,0,4,,,,add_mults_[basevalue]_total_nocondition_0_0_0,,,,decrease_mults_[decrease]_self_nocondition_0_0_0,,,4,28
+29,조커 AD,득점한 모든 카드의 득점 시 칩스가 <color=green>+3</color> 성장한다.,0,3,0,,,,,increase_chips_[increase]_playingcard_by_suite_spade/diamond/heart/club_playingcard,,,,,,4,29
+30,조커 AE,전체 덱에 보유한 7 한장 당 배수가 <color=red>+2</color> 된다.,0,0,0,,,,add_mults_2_total_by_number_7_deckcardall,,,,,,,4,30
+31,조커 AF,"전체 덱카드가 52장 보다 적으면, 그 차이 당 배수가 <color=red>+4</color> 된다.",0,0,0,,,,add_mults_4_total_by_exist_52-all_deckcardall,,,,,,,4,31
+32,조커 AG,스페이드 카드로 득점 시 배수 <color=red>x[basevalue]</color> 스페이드 카드 득점 시마다 배수가 <color=green>[increase]</color> 성장한다. 다른 카드 득점 시마다 배수가 <color=blue>[decrease]</color> 감퇴한다.,1,1,2,,,,,"increase_mults_[increase]_self_by_suite_spade_playingcard,decrease_mults_[decrease]_self_by_suite_heart/diamond/club_playingcard",multiple_mults_[basevalue]_total_include_suite_spade_playcard,,,,,4,32
+33,조커 AH,다이아 카드로 득점 시 배수 <color=red>x[basevalue]</color> 다이아 카드 득점 시마다 배수가 <color=green>[increase]</color> 성장한다. 다른 카드 득점 시마다 배수가 <color=blue>[decrease]</color> 감퇴한다.,1,1,2,,,,,"increase_mults_[increase]_self_by_suite_diamond_playingcard,decrease_mults_[decrease]_self_by_suite_spade/heart/club_playingcard",multiple_mults_[basevalue]_total_include_suite_diamond_playcard,,,,,4,33
+34,조커 AI,하트 카드로 득점 시 배수 <color=red>x[basevalue]</color> 하트 카드 득점 시마다 배수가 <color=green>[increase]</color> 성장한다. 다른 카드 득점 시마다 배수가 <color=blue>[decrease]</color> 감퇴한다.,1,1,2,,,,,"increase_mults_[increase]_self_by_suite_heart_playingcard,decrease_mults_[decrease]_self_by_suite_spade/diamond/club_playingcard",multiple_mults_[basevalue]_total_include_suite_heart_playcard,,,,,4,34
+35,조커 AJ,클럽 카드로 득점 시 배수 <color=red>x[basevalue]</color> 클럽 카드 득점 시마다 배수가 <color=green>[increase]</color> 성장한다. 다른 카드 득점 시마다 배수가 <color=blue>[decrease]</color> 감퇴한다.,1,1,2,,,,,"increase_mults_[increase]_self_by_suite_club_playingcard,decrease_mults_[decrease]_self_by_suite_spade/diamond/heart_playingcard",multiple_mults_[basevalue]_total_include_suite_club_playcard,,,,,4,35
+36,조커 AK,"스페이드 1장으로 플레이 시, 칩스 <color=red>x20</color> 된다.",0,0,0,,,,,,multiple_chips_20_total_count=1_suite_spade_playcard,,,,,4,36
+37,조커 AL,"다이아몬드 4장으로 득점 시, 배수 <color=red>x12</color> 된다.",0,0,0,,,,,,multiple_mults_12_total_count=4_suite_diamond_playcard,,,,,4,37
+38,조커 AM,"하트 2장으로 득점 시, 배수 <color=red>x18</color> 된다.",0,0,0,,,,,,multiple_mults_18_total_count=2_suite_heart_playcard,,,,,4,38
+39,조커 AN,"클럽 3장으로 득점 시, 칩스 <color=red>x15</color> 된다.",0,0,0,,,,,,multiple_chips_15_total_count=3_suite_club_playcard,,,,,4,39
+40,조커 AO,왼쪽 조커와 동일한 기능을 한다. (레벨은 자신의 레벨로 적용된다.),0,0,0,,,,copy_left_1_self_by_exist_joker_jokercard,,,,,,,4,40
+41,조커 AP,남은 버리기 1 당 칩스가 <color=red>+20</color> 된다.,0,0,0,,,,,,add_chips_10_total_by_remain_discard_roundvalue,,,,,5,41
+42,조커 AQ,"남은 핸드플레이 1 당 배수가 <color=red>+2</color>, 칩스는 <color=blue>-30</color> 된다.",0,0,0,,,,,,"add_mults_2_total_by_remain_hand_roundvalue,subtract_chips_30_total_by_remain_hand_roundvalue",,,,,5,42
+43,조커 AR,버리기가 0번 남았을 때 배수가 <color=red>+15</color> 된다.,0,0,0,,,,,,add_chips_10_total_count=0_remain_discard_roundvalue,,,,,5,43
+44,조커 AS,랜덤으로 배수가 <color=red>+2 ~ 20</color> 된다.,0,0,0,,,,add_mults_2@20_total_include_rank_highcard_playcard,,,,,,,5,44
+45,조커 AU,"짝수 카드 점수 시 마다, 배수 <color=red>+2</color> 된다.",0,0,0,,,,,add_mults_2_playingcard_by_number_2/4/6/8/10_playingcard,,,,,,5,46
+46,조커 AV,"홀수 카드 점수 시 마다, 배수 <color=red>+2</color> 된다.",0,0,0,,,,,add_mults_2_playingcard_by_number_1/3/5/7/9_playingcard,,,,,,5,47
+47,조커 AW,덱에 남아 있는 카드 1장 당 칩스가 <color=red>+2</color> 된다.,0,0,0,,,,add_chips_2_playingcard_by_suite_spade/diamond/heart/club_deckcardremain,,,,,,,5,48

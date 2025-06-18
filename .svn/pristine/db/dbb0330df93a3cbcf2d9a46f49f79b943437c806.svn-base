@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfb56e5ba33c43442ab9e0fe067c13e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Materials/Hits/Spike3D.mat
+  uploadId: 714909

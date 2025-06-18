@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4caf928afb38d574288c8eb0a7984a20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Prefabs/Slash/OrangeSlash.prefab
+  uploadId: 714909

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fca183df4f2b5664f8ba61520db86065
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Materials/MagicAirExplosions/HorizontalLight.mat
+  uploadId: 714909

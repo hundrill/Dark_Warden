@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aae77bbb81149584382eb8aa3f56044a
+timeCreated: 1455572300
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Animations/Cards/CardResultsIgnore.anim
+  uploadId: 614726

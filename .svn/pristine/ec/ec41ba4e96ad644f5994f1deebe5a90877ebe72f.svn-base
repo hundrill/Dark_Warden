@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcc4de64feede2c4c92f9697d738c442
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Prefabs/Dash/BlueDash.prefab
+  uploadId: 714909

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 346fecfad7ba49041bb4a261f71752fb
+timeCreated: 1459198799
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/lobby.unity
+  uploadId: 614726

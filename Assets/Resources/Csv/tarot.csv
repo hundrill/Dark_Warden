@@ -1,0 +1,11 @@
+﻿id,nameText,descText,drawnumber,drawfrom,selectcount,randomcount,functiontype,functionvalue,price,sprite
+1,타로 A,선택한 3장의 카드의 숫자가 1 상승한다.,5,,3,,NUMBER_PLUS,1,2,0
+2,타로 B,선택한 3장의 카드의 숫자가 2 감소한다.,6,,3,,NUMBER_MINUS,2,3,1
+3,타로 C,"5장의 무작위 카드가 선택되고, 모두 한 가지 무늬로 변경된다.",10,,0,5,SUITE_CHANGE_RANDOM,,5,2
+4,타로 D,선택한 2장의 카드가 스페이드로 변경된다.,7,,2,,SUITE_CHANGE_SPADE,,4,3
+5,타로 E,선택한 2장의 카드가 다이아로 변경된다.,7,,2,,SUITE_CHANGE_DIAMOND,,4,4
+6,타로 F,선택한 2장의 카드가 하트로 변경된다.,7,,2,,SUITE_CHANGE_HEART,,4,5
+7,타로 G,선택한 2장의 카드가 클로버로 변경된다.,7,,2,,SUITE_CHANGE_CLUB,,4,6
+8,타로 H,선택한 2장의 카드를 덱에서 삭제한다.,6,,1,,CARD_DELETE,,6,7
+9,타로 I,"선택한 3장의 카드 중, 무작위 1장의 카드를 복제한다.",3,,3,,CARD_COPY_RANDOM,1,5,8
+10,타로 J,무작위 행성 카드를 생성한다.,0,,0,,CREATE_PLANET_CARD,1,5,8

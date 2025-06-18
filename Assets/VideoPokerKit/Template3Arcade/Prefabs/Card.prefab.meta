@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 749aa7682d1b4314db5e06b76aacaa22
+timeCreated: 1459194307
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template3Arcade/Prefabs/Card.prefab
+  uploadId: 614726

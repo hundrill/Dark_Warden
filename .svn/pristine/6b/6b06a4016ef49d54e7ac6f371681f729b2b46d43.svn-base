@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb09bf49c4a902343a75475f4d1c980e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Prefabs/Hit/YellowSwordBeamHit.prefab
+  uploadId: 714909

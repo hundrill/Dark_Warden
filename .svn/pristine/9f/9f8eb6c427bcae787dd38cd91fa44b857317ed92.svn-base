@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ba2b36599f2eb24abb9eca074190a17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 223525
+  packageName: Dissolve FX Lite
+  packageVersion: 4.0
+  assetPath: Assets/INab Studio/Dissolve-FX/Helpers/DissolverAutomaticTest.cs
+  uploadId: 696726

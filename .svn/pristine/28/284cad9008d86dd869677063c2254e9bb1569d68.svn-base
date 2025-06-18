@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8f1fad320368264db2e294d23c73d1f
+timeCreated: 1456177010
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template1Classic/Prefabs/DealButton.prefab
+  uploadId: 614726

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcfd23ae216596149b99b74d752ad856
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Shaders/Shield.shader
+  uploadId: 714909

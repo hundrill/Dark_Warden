@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdc0865b9c4f9c74396fed180295be7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template2Style/Scenes/t2styleSettings.lighting
+  uploadId: 614726

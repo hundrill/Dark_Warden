@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32ec1f9add77f28459b9cf5083715931
+timeCreated: 1454793183
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Animations/Cards/CardIdleBeforeDeal1.anim
+  uploadId: 614726

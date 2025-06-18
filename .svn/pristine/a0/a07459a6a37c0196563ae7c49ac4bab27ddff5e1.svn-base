@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 529965dccda4d1d468430ed037b86e4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Prefabs/MagicField/BlueField.prefab
+  uploadId: 714909

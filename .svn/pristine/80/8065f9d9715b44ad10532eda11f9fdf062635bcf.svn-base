@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38a4766754a0cee4eb99f7bcf74cc3af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208773
+  packageName: Skull and Bones
+  packageVersion: 1.1
+  assetPath: Assets/JulienNoelAssets/SkullAndBones/Materials/DG_Wax.mat
+  uploadId: 579373

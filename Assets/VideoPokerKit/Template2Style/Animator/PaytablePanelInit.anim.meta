@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6262b18d9b2a83d419d540e35e54fd78
+timeCreated: 1457123616
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template2Style/Animator/PaytablePanelInit.anim
+  uploadId: 614726

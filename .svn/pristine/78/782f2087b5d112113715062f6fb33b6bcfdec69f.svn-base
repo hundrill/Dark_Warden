@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e7c28e62e1b4584bbee184da563a278
+timeCreated: 1455918112
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Common/Animations/WinMessages/WinShow1.anim
+  uploadId: 614726

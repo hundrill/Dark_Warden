@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 655984866d9b9724b994106989fbf7b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Prefabs/Shield/OrangeHexagonShield.prefab
+  uploadId: 714909

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49cd479ce0e74b240be3f6f420986655
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272584
+  packageName: Master Stylized FX
+  packageVersion: 1.3
+  assetPath: Assets/MasterStylizedFX/Prefabs/Hit/SlashHitGreen.prefab
+  uploadId: 714909

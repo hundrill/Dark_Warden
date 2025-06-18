@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2a39e2eb802bbc4bad64a025ea97e6f
+timeCreated: 1456782001
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61345
+  packageName: Video Poker Starter Kit
+  packageVersion: 1.1
+  assetPath: Assets/VideoPokerKit/Template2Style/Scenes/t2style.unity
+  uploadId: 614726
